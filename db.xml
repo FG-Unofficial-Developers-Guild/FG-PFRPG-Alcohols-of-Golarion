@@ -160,13 +160,17 @@
 					</description>
 					<locked type="number">1</locked>
 					<name type="string">Wiscrani Barbera</name>
+					<subtype type="string">Food and Drink (Wines)</subtype>
+					<type type="string">Good and Services</type>
 				</id-00001>
 				<id-00002>
 					<description type="formattedtext">
 						<p>Urglin gin is an extremely potent gin said to overwhelm most humans after just one cup. It has many uses, such as for cleaning wounds, starting fires, or as an explosive agent.</p>
 					</description>
 					<locked type="number">1</locked>
-					<name type="string">Urglin gin</name>
+					<name type="string">Urglin Gin</name>
+					<subtype type="string">Food and Drink (Spirits)</subtype>
+					<type type="string">Good and Services</type>
 				</id-00002>
 				<id-00003>
 					<description type="formattedtext">
@@ -174,6 +178,8 @@
 					</description>
 					<locked type="number">1</locked>
 					<name type="string">Taldan Fire-Brandy</name>
+					<subtype type="string">Food and Drink (Spirits)</subtype>
+					<type type="string">Good and Services</type>
 				</id-00003>
 				<id-00004>
 					<description type="formattedtext">
@@ -181,6 +187,8 @@
 					</description>
 					<locked type="number">1</locked>
 					<name type="string">Sealord Wine</name>
+					<subtype type="string">Food and Drink (Wines)</subtype>
+					<type type="string">Good and Services</type>
 				</id-00004>
 				<id-00005>
 					<description type="formattedtext">
@@ -188,6 +196,8 @@
 					</description>
 					<locked type="number">1</locked>
 					<name type="string">Palm Wine</name>
+					<subtype type="string">Food and Drink (Wines)</subtype>
+					<type type="string">Good and Services</type>
 				</id-00005>
 				<id-00006>
 					<description type="formattedtext">
@@ -195,6 +205,8 @@
 					</description>
 					<locked type="number">1</locked>
 					<name type="string">Oldlaw Whiskey</name>
+					<subtype type="string">Food and Drink (Spirits)</subtype>
+					<type type="string">Good and Services</type>
 				</id-00006>
 				<id-00007>
 					<description type="formattedtext">
@@ -202,6 +214,8 @@
 					</description>
 					<locked type="number">1</locked>
 					<name type="string">Old Erebus</name>
+					<subtype type="string">Food and Drink (Spirits)</subtype>
+					<type type="string">Good and Services</type>
 				</id-00007>
 				<id-00008>
 					<description type="formattedtext">
@@ -209,6 +223,8 @@
 					</description>
 					<locked type="number">1</locked>
 					<name type="string">Mupute</name>
+					<subtype type="string">Food and Drink (Spirits)</subtype>
+					<type type="string">Good and Services</type>
 				</id-00008>
 				<id-00009>
 					<description type="formattedtext">
@@ -216,13 +232,17 @@
 					</description>
 					<locked type="number">1</locked>
 					<name type="string">Lagmi Liquor</name>
+					<subtype type="string">Food and Drink (Spirits)</subtype>
+					<type type="string">Good and Services</type>
 				</id-00009>
 				<id-00010>
 					<description type="formattedtext">
 						<p>This is the house rum at the Formidably Maid that is frighteningly strong. A keg is worth about 75 gp.</p>
 					</description>
 					<locked type="number">1</locked>
-					<name type="string">Kill-devil rum</name>
+					<name type="string">Kill-Devil Rum</name>
+					<subtype type="string">Food and Drink (Spirits)</subtype>
+					<type type="string">Good and Services</type>
 				</id-00010>
 				<id-00011>
 					<description type="formattedtext">
@@ -230,7 +250,9 @@
 					</description>
 					<isidentified type="number">1</isidentified>
 					<locked type="number">1</locked>
-					<name type="string">Honey wine</name>
+					<name type="string">Honey Wine</name>
+					<subtype type="string">Food and Drink (Wines)</subtype>
+					<type type="string">Good and Services</type>
 				</id-00011>
 				<id-00012>
 					<description type="formattedtext">
@@ -238,6 +260,8 @@
 					</description>
 					<locked type="number">1</locked>
 					<name type="string">Gin</name>
+					<subtype type="string">Food and Drink (Spirits)</subtype>
+					<type type="string">Good and Services</type>
 				</id-00012>
 				<id-00013>
 					<description type="formattedtext">
@@ -245,6 +269,8 @@
 					</description>
 					<locked type="number">1</locked>
 					<name type="string">Fish Oil Whiskey</name>
+					<subtype type="string">Food and Drink (Spirits)</subtype>
+					<type type="string">Good and Services</type>
 				</id-00013>
 				<id-00014>
 					<description type="formattedtext">
@@ -252,13 +278,17 @@
 					</description>
 					<locked type="number">1</locked>
 					<name type="string">Chelish Wine</name>
+					<subtype type="string">Food and Drink (Wines)</subtype>
+					<type type="string">Good and Services</type>
 				</id-00014>
 				<id-00015>
 					<description type="formattedtext">
 						<p>Bagog's liquor is a highly intoxicating still made by the owner of the Bagog's Roundhouse tavern in the town of Dragonsthrall on the Dahak's Horn island in the Shackles.</p>
 					</description>
 					<locked type="number">1</locked>
-					<name type="string">Bagog's liquor</name>
+					<name type="string">Bagog's Liquor</name>
+					<subtype type="string">Food and Drink (Spirits)</subtype>
+					<type type="string">Good and Services</type>
 				</id-00015>
 				<id-00016>
 					<description type="formattedtext">
@@ -266,6 +296,8 @@
 					</description>
 					<locked type="number">1</locked>
 					<name type="string">Arrack</name>
+					<subtype type="string">Food and Drink (Spirits)</subtype>
+					<type type="string">Good and Services</type>
 				</id-00016>
 				<id-00017>
 					<description type="formattedtext">
@@ -273,6 +305,8 @@
 					</description>
 					<locked type="number">1</locked>
 					<name type="string">Andoren Beer</name>
+					<subtype type="string">Food and Drink (Ale/Cider-Strength)</subtype>
+					<type type="string">Good and Services</type>
 				</id-00017>
 				<id-00018>
 					<description type="formattedtext">
@@ -280,13 +314,17 @@
 					</description>
 					<locked type="number">1</locked>
 					<name type="string">Blackpeak Ale</name>
+					<subtype type="string">Food and Drink (Ale/Cider-Strength)</subtype>
+					<type type="string">Good and Services</type>
 				</id-00018>
 				<id-00019>
 					<description type="formattedtext">
 						<p>Available in Andoran.</p>
 					</description>
 					<locked type="number">1</locked>
-					<name type="string">Barley stout</name>
+					<name type="string">Barley Stout</name>
+					<subtype type="string">Food and Drink (Ale/Cider-Strength)</subtype>
+					<type type="string">Good and Services</type>
 				</id-00019>
 				<id-00020>
 					<description type="formattedtext">
@@ -294,6 +332,8 @@
 					</description>
 					<locked type="number">1</locked>
 					<name type="string">Bloodhammer Reserve</name>
+					<subtype type="string">Food and Drink (Ale/Cider-Strength)</subtype>
+					<type type="string">Good and Services</type>
 				</id-00020>
 				<id-00021>
 					<description type="formattedtext">
@@ -301,6 +341,8 @@
 					</description>
 					<locked type="number">1</locked>
 					<name type="string">Brow Brew</name>
+					<subtype type="string">Food and Drink (Ale/Cider-Strength)</subtype>
+					<type type="string">Good and Services</type>
 				</id-00021>
 				<id-00022>
 					<description type="formattedtext">
@@ -308,6 +350,8 @@
 					</description>
 					<locked type="number">1</locked>
 					<name type="string">Hardroot Cider</name>
+					<subtype type="string">Food and Drink (Ale/Cider-Strength)</subtype>
+					<type type="string">Good and Services</type>
 				</id-00022>
 				<id-00023>
 					<description type="formattedtext">
@@ -315,6 +359,8 @@
 					</description>
 					<locked type="number">1</locked>
 					<name type="string">Fort Indros Ale</name>
+					<subtype type="string">Food and Drink (Ale/Cider-Strength)</subtype>
+					<type type="string">Good and Services</type>
 				</id-00023>
 				<id-00024>
 					<description type="formattedtext">
@@ -322,6 +368,8 @@
 					</description>
 					<locked type="number">1</locked>
 					<name type="string">Cheerful Delver Stout</name>
+					<subtype type="string">Food and Drink (Ale/Cider-Strength)</subtype>
+					<type type="string">Good and Services</type>
 				</id-00024>
 				<id-00025>
 					<description type="formattedtext">
@@ -329,6 +377,8 @@
 					</description>
 					<locked type="number">1</locked>
 					<name type="string">Dwarven Magic Ale</name>
+					<subtype type="string">Food and Drink (Ale/Cider-Strength)</subtype>
+					<type type="string">Good and Services</type>
 				</id-00025>
 				<id-00026>
 					<description type="formattedtext">
@@ -336,13 +386,17 @@
 					</description>
 					<locked type="number">1</locked>
 					<name type="string">Boulderhead Bock</name>
+					<subtype type="string">Food and Drink (Ale/Cider-Strength)</subtype>
+					<type type="string">Good and Services</type>
 				</id-00026>
 				<id-00027>
 					<description type="formattedtext">
-						<p>Hardroot cider is known for being particularly dry.</p>
+						<p>This disgusting concoction is made by adding toxin from a poisonous toad or frog to beer. The poison is inserted in different ways, such as soaking the amphibian in the ale, soaking its eggs in the ale or milking the poison from the amphibian and then mixing it in. Bufo is not consumed in civilized societies, but goblins, boggards and other primitive humanoids lap it up, sometimes eating the amphibian as a bonus at the end of their drink.</p>
 					</description>
 					<locked type="number">1</locked>
-					<name type="string">Hardroot Cider</name>
+					<name type="string">Bufo</name>
+					<subtype type="string">Food and Drink (Ale/Cider-Strength)</subtype>
+					<type type="string">Good and Services</type>
 				</id-00027>
 				<id-00028>
 					<description type="formattedtext">
@@ -350,13 +404,18 @@
 					</description>
 					<locked type="number">1</locked>
 					<name type="string">Ipeq Beer</name>
+					<subtype type="string">Food and Drink (Ale/Cider-Strength)</subtype>
+					<type type="string">Good and Services</type>
 				</id-00028>
 				<id-00029>
+					<cost type="string">4 sp</cost>
 					<description type="formattedtext">
 						<p>A salty, frothy, and pale beer, most races consider it too salty. At 4sp a mug, or 1 gp a gallon, it is not the cheapest beer in the tavern.</p>
 					</description>
 					<locked type="number">1</locked>
 					<name type="string">Luglurch Ale</name>
+					<subtype type="string">Food and Drink (Ale/Cider-Strength)</subtype>
+					<type type="string">Good and Services</type>
 				</id-00029>
 				<id-00030>
 					<description type="formattedtext">
@@ -364,55 +423,78 @@
 					</description>
 					<locked type="number">1</locked>
 					<name type="string">Liquid Ghosts</name>
+					<subtype type="string">Food and Drink (Ale/Cider-Strength)</subtype>
+					<type type="string">Good and Services</type>
 				</id-00030>
 				<id-00031>
+					<cost type="string">1 cp</cost>
 					<description type="formattedtext">
 						<p>A cheap favorite of the unlucky of Ilizmagorti, it is made from the leftover dregs of whatever other drinks the bartender has made recently. It costs only 1cp.</p>
 					</description>
 					<locked type="number">1</locked>
 					<name type="string">Bilgwater Surprize</name>
+					<subtype type="string">Mixed Drinks</subtype>
+					<type type="string">Good and Services</type>
 				</id-00031>
 				<id-00032>
+					<cost type="string">6 sp</cost>
 					<description type="formattedtext">
 						<p>White Wine and pomegranate juice. This drink costs 6 sp each.</p>
 					</description>
 					<locked type="number">1</locked>
 					<name type="string">Damsel in Distress</name>
+					<subtype type="string">Mixed Drinks</subtype>
+					<type type="string">Good and Services</type>
 				</id-00032>
 				<id-00033>
+					<cost type="string">2 sp</cost>
 					<description type="formattedtext">
 						<p>Costing 2 sp, this cocktail is made from ginger beer, dark rum, and a slice of lime.</p>
 					</description>
 					<locked type="number">1</locked>
 					<name type="string">Dark and Stormy</name>
+					<subtype type="string">Mixed Drinks</subtype>
+					<type type="string">Good and Services</type>
 				</id-00033>
 				<id-00034>
+					<cost type="string">5 sp</cost>
 					<description type="formattedtext">
 						<p>Made by mixing dark rum, orange liqueur, and apple juice. In Ilizmagorti this drink costs 5 sp.</p>
 					</description>
 					<locked type="number">1</locked>
 					<name type="string">Half a Doubloon</name>
+					<subtype type="string">Mixed Drinks</subtype>
+					<type type="string">Good and Services</type>
 				</id-00034>
 				<id-00035>
+					<cost type="string">1 gp</cost>
 					<description type="formattedtext">
 						<p>A drink sold to visitors to Ilizmagorti, this drink is made with absinthe and fruit. The absinthe and strong alcohol make the visitor a easy target for locals. Because of this, it costs 1 gp.</p>
 					</description>
 					<locked type="number">1</locked>
 					<name type="string">Island Dream</name>
+					<subtype type="string">Mixed Drinks</subtype>
+					<type type="string">Good and Services</type>
 				</id-00035>
 				<id-00036>
+					<cost type="string">1 gp</cost>
 					<description type="formattedtext">
 						<p>A spicy drink, made from vodka, tomatoes, pepper, and some other vegetables. Legend states that the additional secret ingredient is blood of a fiendish giant praying mantis. A glass costs 1 gp.</p>
 					</description>
 					<locked type="number">1</locked>
 					<name type="string">Kiss of the Mantis</name>
+					<subtype type="string">Mixed Drinks</subtype>
+					<type type="string">Good and Services</type>
 				</id-00036>
 				<id-00037>
+					<cost type="string">10 gp</cost>
 					<description type="formattedtext">
 						<p>Lisken's Medicinal Tonic is normally used as a relief for insomnia or as a gentle sedative but, for 10 gp per cup, halflings will purchase this alcoholic drink to slow and quieten themselves down in a more pronounced fashion; it has no such strong effect on other races.</p>
 					</description>
 					<locked type="number">1</locked>
 					<name type="string">Lisken's Medicinal Tonic</name>
+					<subtype type="string">Mixed Drinks</subtype>
+					<type type="string">Good and Services</type>
 				</id-00037>
 				<id-00038>
 					<description type="formattedtext">
@@ -420,13 +502,18 @@
 					</description>
 					<locked type="number">1</locked>
 					<name type="string">Rumboozle</name>
+					<subtype type="string">Mixed Drinks</subtype>
+					<type type="string">Good and Services</type>
 				</id-00038>
 				<id-00039>
+					<cost type="string">8 cp</cost>
 					<description type="formattedtext">
 						<p>Herb liqueur mixed with whiskey and honey from Ilizmagorti. A rusty cutlass costs 8 cp.</p>
 					</description>
 					<locked type="number">1</locked>
 					<name type="string">Rusty Cutlass</name>
+					<subtype type="string">Mixed Drinks</subtype>
+					<type type="string">Good and Services</type>
 				</id-00039>
 				<id-00040>
 					<description type="formattedtext">
@@ -434,27 +521,38 @@
 					</description>
 					<locked type="number">1</locked>
 					<name type="string">Teht's Love Potion</name>
+					<subtype type="string">Mixed Drinks</subtype>
+					<type type="string">Good and Services</type>
 				</id-00040>
 				<id-00041>
+					<cost type="string">4 sp</cost>
 					<description type="formattedtext">
 						<p>A drink served in a glass with a salted rim, a three salts and a dog consists of Whiskey, brandy, tequila, rum and costs 4 sp.</p>
 					</description>
 					<locked type="number">1</locked>
 					<name type="string">Three Salts and a Dog</name>
+					<subtype type="string">Mixed Drinks</subtype>
+					<type type="string">Good and Services</type>
 				</id-00041>
 				<id-00042>
+					<cost type="string">6 cp</cost>
 					<description type="formattedtext">
 						<p>Served similarly to three salts and a dog, a three sheets is made by mixing at least three different types of rum and costs 6 cp.</p>
 					</description>
 					<locked type="number">1</locked>
 					<name type="string">Three Sheets</name>
+					<subtype type="string">Mixed Drinks</subtype>
+					<type type="string">Good and Services</type>
 				</id-00042>
 				<id-00043>
+					<cost type="string">1 sp</cost>
 					<description type="formattedtext">
 						<p>Costing a silver piece, a whore's breakfast is a mug of ale with a shot of rum dropped in it. This is topped off with a tomato wedge garnish.</p>
 					</description>
 					<locked type="number">1</locked>
 					<name type="string">Whore's Breakfast</name>
+					<subtype type="string">Mixed Drinks</subtype>
+					<type type="string">Good and Services</type>
 				</id-00043>
 			</category>
 		</equipment>
