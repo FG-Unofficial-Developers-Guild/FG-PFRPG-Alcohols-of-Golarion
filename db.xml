@@ -554,6 +554,603 @@
 					<subtype type="string">Mixed Drinks</subtype>
 					<type type="string">Good and Services</type>
 				</id-00043>
+				<id-00044>
+					<description type="formattedtext">
+						<p>Absinthe is a favoured drink of creative folk such as artists. It is green in colour and made from wormwood. Elven absinthe is also popular.</p>
+					</description>
+					<locked type="number">1</locked>
+					<name type="string">Absinthe</name>
+					<subtype type="string">Food and Drink (Spirits)</subtype>
+					<type type="string">Good and Services</type>
+				</id-00044>
+				<id-00045>
+					<description type="formattedtext">
+						<p>Baijiu is a clear drink usually distilled from sorghum. Its taste is corrosive and has to be acquired.</p>
+					</description>
+					<locked type="number">1</locked>
+					<name type="string">Baijiu</name>
+					<subtype type="string">Food and Drink (Spirits)</subtype>
+					<type type="string">Good and Services</type>
+				</id-00045>
+				<id-00046>
+					<description type="formattedtext">
+						<p>This strong liquor is served at the Lean-To tavern in the Varisian town of Wartle. It has a gritty consistency and the dregs may be partaken from the communal bottle, although this is not recommended.</p>
+					</description>
+					<locked type="number">1</locked>
+					<name type="string">Bog Grog</name>
+					<subtype type="string">Food and Drink (Spirits)</subtype>
+					<type type="string">Good and Services</type>
+				</id-00046>
+				<id-00047>
+					<description type="formattedtext">
+						<p>Pesh brandy is a spirit presumably based on the drug pesh; it has a sweetness as well as a warmth on the palate.</p>
+					</description>
+					<locked type="number">1</locked>
+					<name type="string">Pesh Brandy</name>
+					<subtype type="string">Food and Drink (Spirits)</subtype>
+					<type type="string">Good and Services</type>
+				</id-00047>
+				<id-00048>
+					<description type="formattedtext">
+						<p>Wine is produced in the Taldan city of Zimar.</p>
+					</description>
+					<locked type="number">1</locked>
+					<name type="string">Zimaran Wine</name>
+					<subtype type="string">Food and Drink (Wines)</subtype>
+					<type type="string">Good and Services</type>
+				</id-00048>
+				<id-00049>
+					<description type="formattedtext">
+						<p>Ustalavic brandy may be very fine indeed.</p>
+					</description>
+					<locked type="number">1</locked>
+					<name type="string">Ustalavic Brandy</name>
+					<subtype type="string">Food and Drink (Spirits)</subtype>
+					<type type="string">Good and Services</type>
+				</id-00049>
+				<id-00050>
+					<description type="formattedtext">
+						<p>Corn liquor is distilled liquor based on maize as its grain.</p>
+					</description>
+					<locked type="number">1</locked>
+					<name type="string">Corn Liquor</name>
+					<subtype type="string">Food and Drink (Spirits)</subtype>
+					<type type="string">Good and Services</type>
+				</id-00050>
+				<id-00051>
+					<description type="formattedtext">
+						<p>This warming spirit is sold in The Hardened Road pub in Magnimar.</p>
+					</description>
+					<locked type="number">1</locked>
+					<name type="string">Daggermark Drip</name>
+					<subtype type="string">Food and Drink (Spirits)</subtype>
+					<type type="string">Good and Services</type>
+				</id-00051>
+				<id-00052>
+					<description type="formattedtext">
+						<p>Gear grog is the house brew sold by Bruner Derwel in the Rusty Glove in Alkenstar; it is a thick oily spirit.</p>
+					</description>
+					<locked type="number">1</locked>
+					<name type="string">Gear Grog</name>
+					<subtype type="string">Food and Drink (Spirits)</subtype>
+					<type type="string">Good and Services</type>
+				</id-00052>
+				<id-00053>
+					<cost type="string">100 gp</cost>
+					<description type="formattedtext">
+						<p>A bottle of bloodberry gin can sell for as much as 100 gold pieces.</p>
+					</description>
+					<locked type="number">1</locked>
+					<name type="string">Bloodberry Gin</name>
+					<subtype type="string">Food and Drink (Spirits)</subtype>
+					<type type="string">Good and Services</type>
+				</id-00053>
+				<id-00054>
+					<description type="formattedtext">
+						<p>Grain alcohol is made by distilling fermented grains of various types. Generic grain alcohol tends to be inferior to a whisky and can be used to spike drinks of a lower alcoholic content, such as ale.</p>
+					</description>
+					<locked type="number">1</locked>
+					<name type="string">Grain Alcohol</name>
+					<subtype type="string">Food and Drink (Spirits)</subtype>
+					<type type="string">Good and Services</type>
+				</id-00054>
+				<id-00055>
+					<description type="formattedtext">
+						<p>Mulue is a fruit flourishing in the Mwangi Expanse growing on vines exclusively found almost a week into the jungle. The higher echelons of Chelish society ferment mulue to create a potent drink.</p>
+					</description>
+					<locked type="number">1</locked>
+					<name type="string">Mulue</name>
+					<subtype type="string">Food and Drink (Spirits)</subtype>
+					<type type="string">Good and Services</type>
+				</id-00055>
+				<id-00056>
+					<description type="formattedtext">
+						<p>This Vudrani drink is made from fruit and is sweet and strongly alcoholic.</p>
+					</description>
+					<locked type="number">1</locked>
+					<name type="string">Penj</name>
+					<subtype type="string">Food and Drink (Spirits)</subtype>
+					<type type="string">Good and Services</type>
+				</id-00056>
+				<id-00057>
+					<description type="formattedtext">
+						<p>Poitin is a potent potato liquor favored by leprechauns. The drink has magical properties, allowing mortals to see fey and other denizens of the First World free of illusions and plainly visible for an hour after drinking. This inevitably attracts the ire of hostile fey, much to the leprechauns' delight. It is also exceptionally strong, and those who drink of it rarely remember their experiences.</p>
+					</description>
+					<locked type="number">1</locked>
+					<name type="string">Poitin</name>
+					<subtype type="string">Food and Drink (Spirits)</subtype>
+					<type type="string">Good and Services</type>
+				</id-00057>
+				<id-00058>
+					<description type="formattedtext">
+						<p>Rum is doled out on board many ships, sometimes diluted with water to make 'grog'. On many ships, the rum or grog ration is enforced and penalties are suffered for defaulting. Sometimes lemon or lime juice is added to the grog to prevent scurvy and to make the sometimes disgusting concoction more palatable. When rum is unavailable, grogs may be made by mixing whatever alcohol is available; even though it may be unpalatable, if it is all that is available, it will be drunk on board ship.</p>
+					</description>
+					<locked type="number">1</locked>
+					<name type="string">Rum (or Grog)</name>
+					<subtype type="string">Food and Drink (Spirits)</subtype>
+					<type type="string">Good and Services</type>
+				</id-00058>
+				<id-00059>
+					<description type="formattedtext">
+						<p>This spirit, sold aflame, is two parts kill-devil rum, and one part gunpowder. It is sold at the Formidably Maid on Port Peril's dockside.</p>
+					</description>
+					<locked type="number">1</locked>
+					<name type="string">Fire in the Hole</name>
+					<subtype type="string">Food and Drink (Spirits)</subtype>
+					<type type="string">Good and Services</type>
+				</id-00059>
+				<id-00060>
+					<description type="formattedtext">
+						<p>This grog is mixed with a raw siren's egg and sold at the Formidably Maid.</p>
+					</description>
+					<locked type="number">1</locked>
+					<name type="string">Salt-Licked Grog</name>
+					<subtype type="string">Food and Drink (Spirits)</subtype>
+					<type type="string">Good and Services</type>
+				</id-00060>
+				<id-00061>
+					<description type="formattedtext">
+						<p>Rum may be flavoured with various spices to make spiced rum or spiced grog. One such recipe for spiced grog is a mixture of rum, spices, and some lime and sugar.</p>
+					</description>
+					<locked type="number">1</locked>
+					<name type="string">Spiced Rum (or Spiced Grog)</name>
+					<subtype type="string">Food and Drink (Spirits)</subtype>
+					<type type="string">Good and Services</type>
+				</id-00061>
+				<id-00062>
+					<description type="formattedtext">
+						<p>This strong rum is made at the Two Knight Brewery in the Varisian town of Sandpoint.</p>
+					</description>
+					<locked type="number">1</locked>
+					<name type="string">Two Knight Brewery Rum</name>
+					<subtype type="string">Food and Drink (Spirits)</subtype>
+					<type type="string">Good and Services</type>
+				</id-00062>
+				<id-00063>
+					<description type="formattedtext">
+						<p>This vodka is made from potatoes. One of the more famous varieties is served at the Tin King Alley Tavern in the Irriseni settlement of Zlatomesto.</p>
+					</description>
+					<locked type="number">1</locked>
+					<name type="string">Potato Vodka</name>
+					<subtype type="string">Food and Drink (Spirits)</subtype>
+					<type type="string">Good and Services</type>
+				</id-00063>
+				<id-00064>
+					<description type="formattedtext">
+						<p>Whisky, sometimes spelt whiskey, is made in many varieties in many parts of Golarion. In essence, a whisky is distilled grain liquor. The grain might be barley, maize, rye or wheat. Ageing in wooden casks improves the flavour.</p>
+					</description>
+					<locked type="number">1</locked>
+					<name type="string">Whisky</name>
+					<subtype type="string">Food and Drink (Spirits)</subtype>
+					<type type="string">Good and Services</type>
+				</id-00064>
+				<id-00065>
+					<description type="formattedtext">
+						<p>Black Hill Whiskey is a popular drink at the Copper Coin tavern in Torch, Numeria.</p>
+					</description>
+					<locked type="number">1</locked>
+					<name type="string">Black Hill Whiskey</name>
+					<subtype type="string">Food and Drink (Spirits)</subtype>
+					<type type="string">Good and Services</type>
+				</id-00065>
+				<id-00066>
+					<description type="formattedtext">
+						<p>Sold by the bottle at Jeggare's Jug, the first drinking establishment built in Korvosa.</p>
+					</description>
+					<locked type="number">1</locked>
+					<name type="string">Chelaxian Pepper Whiskey / Chelish Pepper Whisky</name>
+					<subtype type="string">Food and Drink (Spirits)</subtype>
+					<type type="string">Good and Services</type>
+				</id-00066>
+				<id-00067>
+					<cost type="string">10 gp</cost>
+					<description type="formattedtext">
+						<p>For 10 gp a cup, halflings tend to go on drinking binges of this dark liquor to conquer their fears. Supposedly, the creator accosted a dragon without weapons, and that is where the title went.</p>
+					</description>
+					<locked type="number">1</locked>
+					<name type="string">Dragon Punch Whiskey</name>
+					<subtype type="string">Food and Drink (Spirits)</subtype>
+					<type type="string">Good and Services</type>
+				</id-00067>
+				<id-00068>
+					<description type="formattedtext">
+						<p>.</p>
+					</description>
+					<locked type="number">1</locked>
+					<name type="string">Dragonscar Whisky</name>
+					<subtype type="string">Food and Drink (Spirits)</subtype>
+					<type type="string">Good and Services</type>
+				</id-00068>
+				<id-00069>
+					<description type="formattedtext">
+						<p>Whiskey made by gnomes is distinctive enough to distinguished.</p>
+					</description>
+					<locked type="number">1</locked>
+					<name type="string">Gnome Whiskey</name>
+					<subtype type="string">Food and Drink (Spirits)</subtype>
+					<type type="string">Good and Services</type>
+				</id-00069>
+				<id-00070>
+					<description type="formattedtext">
+						<p>Janderhoff whiskey is distilled in Janderhoff, presumably by the native dwarves.</p>
+					</description>
+					<locked type="number">1</locked>
+					<name type="string">Janderhoff Whiskey</name>
+					<subtype type="string">Food and Drink (Spirits)</subtype>
+					<type type="string">Good and Services</type>
+				</id-00070>
+				<id-00071>
+					<description type="formattedtext">
+						<p>A very potent whisky, throatburn is made by the gnomes of Kalsgard.</p>
+					</description>
+					<locked type="number">1</locked>
+					<name type="string">Throatburn</name>
+					<subtype type="string">Food and Drink (Spirits)</subtype>
+					<type type="string">Good and Services</type>
+				</id-00071>
+				<id-00072>
+					<description type="formattedtext">
+						<p>Strong spirit distilled in the Lands of the Linnorm Kings. It is made in enough quantity for the barrels to be used for fuelling ring defences around villages called fire moats, burning with a blue flame. It is also used from flasks to clean wounds.</p>
+					</description>
+					<locked type="number">1</locked>
+					<name type="string">Vjarik</name>
+					<subtype type="string">Food and Drink (Spirits)</subtype>
+					<type type="string">Good and Services</type>
+				</id-00072>
+				<id-00073>
+					<description type="formattedtext">
+						<p>Winteryew moonshine is the local liquor of the village of Waldsby in Irrisen made by distilling winteryew bark. It may be purchased, albeit in watered-down fashion, from the White Weasel, the only tavern in the village.</p>
+					</description>
+					<locked type="number">1</locked>
+					<name type="string">Winteryew Moonshine</name>
+					<subtype type="string">Food and Drink (Spirits)</subtype>
+					<type type="string">Good and Services</type>
+				</id-00073>
+				<id-00074>
+					<description type="formattedtext">
+						<p></p>
+					</description>
+					<locked type="number">1</locked>
+					<name type="string">Bellis Mead</name>
+					<subtype type="string">Food and Drink (Ale/Cider-Strength)</subtype>
+					<type type="string">Good and Services</type>
+				</id-00074>
+				<id-00075>
+					<description type="formattedtext">
+						<p>Cauim is made by chewing manioc root or maize creating a different type of beer.</p>
+					</description>
+					<locked type="number">1</locked>
+					<name type="string">Cauim</name>
+					<subtype type="string">Food and Drink (Ale/Cider-Strength)</subtype>
+					<type type="string">Good and Services</type>
+				</id-00075>
+				<id-00076>
+					<description type="formattedtext">
+						<p>By repeatedly partially freezing this brew and removing the ice, the alcoholic content of Icecap Ale is forced up to ten times that of normal ale. This ale additionally boosts the strength and fortitude of the drinker but at a price of fatigue and memory loss greater than for a normal hangover.</p>
+					</description>
+					<locked type="number">1</locked>
+					<name type="string">Icecap Ale</name>
+					<subtype type="string">Food and Drink (Ale/Cider-Strength)</subtype>
+					<type type="string">Good and Services</type>
+				</id-00076>
+				<id-00077>
+					<description type="formattedtext">
+						<p>Longbeard Lambic is an ancient recipe that can pull a drinker out of fatigue and fear.</p>
+					</description>
+					<locked type="number">1</locked>
+					<name type="string">Longbeard Lambic</name>
+					<subtype type="string">Food and Drink (Ale/Cider-Strength)</subtype>
+					<type type="string">Good and Services</type>
+				</id-00077>
+				<id-00078>
+					<description type="formattedtext">
+						<p>Wyrm's Breath Bitter is green-coloured, extremely fizzy and very bitter. Unfortunately, the ale causes nausea but as a secondary effect grants the imbiber a noxious belch acting similarly to a dragon's breath weapon. Those smelling the belch are sickened and deafened.</p>
+					</description>
+					<locked type="number">1</locked>
+					<name type="string">Wyrm's Breath Bitter</name>
+					<subtype type="string">Food and Drink (Ale/Cider-Strength)</subtype>
+					<type type="string">Good and Services</type>
+				</id-00078>
+				<id-00079>
+					<description type="formattedtext">
+						<p>Kumis is made by fermenting horse milk; it is drunk cold.</p>
+					</description>
+					<locked type="number">1</locked>
+					<name type="string">Kumis</name>
+					<subtype type="string">Food and Drink (Ale/Cider-Strength)</subtype>
+					<type type="string">Good and Services</type>
+				</id-00079>
+				<id-00080>
+					<description type="formattedtext">
+						<p>Mead comes in many different varieties but, in essence, it is fermented honey. Different varieties are flavoured with spices, fruit or hops. Regional meads can be found elsewhere in this article.</p>
+					</description>
+					<locked type="number">1</locked>
+					<name type="string">Mead</name>
+					<subtype type="string">Food and Drink (Ale/Cider-Strength)</subtype>
+					<type type="string">Good and Services</type>
+				</id-00080>
+				<id-00081>
+					<description type="formattedtext">
+						<p>The arboreal regents of the Verduran Forest brew a concoction known as nodrim from fermented apples, wood chips, and clear water. It is intoxicating to them, but it is unknown whether it also similarly affects non-arboreal regents.</p>
+					</description>
+					<locked type="number">1</locked>
+					<name type="string">Nodrim</name>
+					<subtype type="string">Food and Drink (Ale/Cider-Strength)</subtype>
+					<type type="string">Good and Services</type>
+				</id-00081>
+				<id-00082>
+					<description type="formattedtext">
+						<p>Pulque is fermented using the heart or sap of agave plants forming a milky white, thick brew.</p>
+					</description>
+					<locked type="number">1</locked>
+					<name type="string">Pulque</name>
+					<subtype type="string">Food and Drink (Ale/Cider-Strength)</subtype>
+					<type type="string">Good and Services</type>
+				</id-00082>
+				<id-00083>
+					<description type="formattedtext">
+						<p>Qadiran cider may be found as far as Absalom.</p>
+					</description>
+					<locked type="number">1</locked>
+					<name type="string">Qadiran Cider</name>
+					<subtype type="string">Food and Drink (Ale/Cider-Strength)</subtype>
+					<type type="string">Good and Services</type>
+				</id-00083>
+				<id-00084>
+					<description type="formattedtext">
+						<p>Rusty Ale is a popular drink at the Copper Coin tavern in Torch, Numeria.</p>
+					</description>
+					<locked type="number">1</locked>
+					<name type="string">Rusty Ale</name>
+					<subtype type="string">Food and Drink (Ale/Cider-Strength)</subtype>
+					<type type="string">Good and Services</type>
+				</id-00084>
+				<id-00085>
+					<description type="formattedtext">
+						<p>Sake is a strong alcoholic beverage brewed in a similar process to brewing beer; despite its manufacturing process, it is sometimes confusingly called rice wine outside Tian Xia. It is made in Tian Xia, particularly in Minkai. Sake may be aged, like wine, which increases its value. It is very rare to find sake in the Inner Sea region, though some is imported from Minkai.</p>
+					</description>
+					<locked type="number">1</locked>
+					<name type="string">Sake, or Rice Wine</name>
+					<subtype type="string">Food and Drink (Ale/Cider-Strength)</subtype>
+					<type type="string">Good and Services</type>
+				</id-00085>
+				<id-00086>
+					<description type="formattedtext">
+						<p>Despite its fame as a centre for fine wine, some of the best ale and cider distributed in the Inner Sea region is brewed in Sarain in the River Kingdom of Pitax.</p>
+					</description>
+					<locked type="number">1</locked>
+					<name type="string">Sarain</name>
+					<subtype type="string">Food and Drink (Ale/Cider-Strength)</subtype>
+					<type type="string">Good and Services</type>
+				</id-00086>
+				<id-00087>
+					<description type="formattedtext">
+						<p>Steelforged Stout is a popular drink at the Copper Coin tavern in Torch, Numeria.</p>
+					</description>
+					<locked type="number">1</locked>
+					<name type="string">Steelforged Stout</name>
+					<subtype type="string">Food and Drink (Ale/Cider-Strength)</subtype>
+					<type type="string">Good and Services</type>
+				</id-00087>
+				<id-00088>
+					<description type="formattedtext">
+						<p>Tepache is a low-alcohol brew, found in tropical climes, that is made from beer, pineapple, sugar and cinnamon; sometimes other tropical fruits are used in place of the pineapple. The mixture is fermented together and the resulting brew is served cold with chilli powder.</p>
+					</description>
+					<locked type="number">1</locked>
+					<name type="string">Tepache</name>
+					<subtype type="string">Food and Drink (Ale/Cider-Strength)</subtype>
+					<type type="string">Good and Services</type>
+				</id-00088>
+				<id-00089>
+					<description type="formattedtext">
+						<p>Thileu bark is used to brew Thileu Lager sold by Jerikal Ashworth of Jerikal's Ales in Katapesh.</p>
+					</description>
+					<locked type="number">1</locked>
+					<name type="string">Thileu Lager</name>
+					<subtype type="string">Food and Drink (Ale/Cider-Strength)</subtype>
+					<type type="string">Good and Services</type>
+				</id-00089>
+				<id-00090>
+					<description type="formattedtext">
+						<p>Three Devil Ale is the house beer of the Silver Stoat tavern in the village of Heldren in Taldor. It is brewed on the premises by the landlady Kale Garimos and flavoured with hops imported from Cheliax, hence the ale's name, one assumes.</p>
+					</description>
+					<locked type="number">1</locked>
+					<name type="string">Three Devil Ale</name>
+					<subtype type="string">Food and Drink (Ale/Cider-Strength)</subtype>
+					<type type="string">Good and Services</type>
+				</id-00090>
+				<id-00091>
+					<description type="formattedtext">
+						<p>This ale is known to be served in the Rusty Dragon inn in Sandpoint, Varisia and the Old Fang inn in Magnimar.</p>
+					</description>
+					<locked type="number">1</locked>
+					<name type="string">Ulseberry Ale</name>
+					<subtype type="string">Food and Drink (Ale/Cider-Strength)</subtype>
+					<type type="string">Good and Services</type>
+				</id-00091>
+				<id-00092>
+					<description type="formattedtext">
+						<p>Wineberry Mead is a popular drink at the Copper Coin tavern in Torch, Numeria.</p>
+					</description>
+					<locked type="number">1</locked>
+					<name type="string">Wineberry Mead</name>
+					<subtype type="string">Food and Drink (Ale/Cider-Strength)</subtype>
+					<type type="string">Good and Services</type>
+				</id-00092>
+				<id-00093>
+					<description type="formattedtext">
+						<p>Alkenstar ice wine is a favoured among Geb's nobility but may also be found in the Rusty Glove in Alkenstar's Ferrous Quarter.</p>
+					</description>
+					<locked type="number">1</locked>
+					<name type="string">Alkenstar Ice Wine</name>
+					<subtype type="string">Food and Drink (Wines)</subtype>
+					<type type="string">Good and Services</type>
+				</id-00093>
+				<id-00094>
+					<description type="formattedtext">
+						<p>Known to be drunk in Druma, this is a wine made from blackberries rather than grapes.</p>
+					</description>
+					<locked type="number">1</locked>
+					<name type="string">Blackberry Wine</name>
+					<subtype type="string">Food and Drink (Wines)</subtype>
+					<type type="string">Good and Services</type>
+				</id-00094>
+				<id-00095>
+					<description type="formattedtext">
+						<p>Dessert wine is sweet wine taken during a sweet course of a meal.</p>
+					</description>
+					<locked type="number">1</locked>
+					<name type="string">Dessert Wine</name>
+					<subtype type="string">Food and Drink (Wines)</subtype>
+					<type type="string">Good and Services</type>
+				</id-00095>
+				<id-00096>
+					<description type="formattedtext">
+						<p>Wine is produced in Druma and one of the more famous estates is owned by Kalistocrat Amynta Irel and located 15 miles west of Kerse. A particularly fine, and appropriately priced, example from the estate is called Encarthan Gold, named after the nearby Lake Encarthan. Even more expensive than Encarthan Gold, bottles of Encarthan Fishgold Rose are named after the unique red-coloured gold found only in the depths of Lake Encarthan.</p>
+					</description>
+					<locked type="number">1</locked>
+					<name type="string">Drumish Wine</name>
+					<subtype type="string">Food and Drink (Wines)</subtype>
+					<type type="string">Good and Services</type>
+				</id-00096>
+				<id-00097>
+					<description type="formattedtext">
+						<p>Elven wine is very fine in quality and sweet in taste; it may even exceed a fine Galtan vintage wine in quality (see below). The alcoholic potency of the wine is often unrealized by those drinking it until much later. Elves of Kyonin also create subtle wines made from berries. Midsummer wine is made by the elves of Kyonin to celebrate the summer festival. It is a delicate white wine yet has a pleasing length.</p>
+					</description>
+					<locked type="number">1</locked>
+					<name type="string">Elven Wine</name>
+					<subtype type="string">Food and Drink (Wines)</subtype>
+					<type type="string">Good and Services</type>
+				</id-00097>
+				<id-00098>
+					<description type="formattedtext">
+						<p>This wine may be aged to improve its quality and can be worth many gold pieces per bottle.</p>
+					</description>
+					<locked type="number">1</locked>
+					<name type="string">Galdurian Wine</name>
+					<subtype type="string">Food and Drink (Wines)</subtype>
+					<type type="string">Good and Services</type>
+				</id-00098>
+				<id-00099>
+					<description type="formattedtext">
+						<p>Galtan wine can be very fine and smooth on the palate, though the revolutionary nature of the country currently makes wine making very difficult. Quality is sufficient enough that vintage wines may be made to lay down; these vintage wines may be sweet.</p>
+					</description>
+					<locked type="number">1</locked>
+					<name type="string">Galtan Wine</name>
+					<subtype type="string">Food and Drink (Wines)</subtype>
+					<type type="string">Good and Services</type>
+				</id-00099>
+				<id-00100>
+					<description type="formattedtext">
+						<p>Irrisen Icewine from Hoarwood city may be purchased illegally from the White Weasel, the only tavern in the village of Waldsby in Irrisen.</p>
+					</description>
+					<locked type="number">1</locked>
+					<name type="string">Irrisen Icewine</name>
+					<subtype type="string">Food and Drink (Wines)</subtype>
+					<type type="string">Good and Services</type>
+				</id-00100>
+				<id-00101>
+					<description type="formattedtext">
+						<p>Wine is produced in the Varisian city state of Korvosa, including port (q.v.).</p>
+					</description>
+					<locked type="number">1</locked>
+					<name type="string">Korvosan Wine</name>
+					<subtype type="string">Food and Drink (Wines)</subtype>
+					<type type="string">Good and Services</type>
+				</id-00101>
+				<id-00102>
+					<description type="formattedtext">
+						<p>Port is a fortified wine found in many varieties and hues, such as the tawny port of Korvosa.</p>
+					</description>
+					<locked type="number">1</locked>
+					<name type="string">Port</name>
+					<subtype type="string">Food and Drink (Wines)</subtype>
+					<type type="string">Good and Services</type>
+				</id-00102>
+				<id-00103>
+					<cost type="string">200 gp</cost>
+					<description type="formattedtext">
+						<p>Sangwine is a dark red wine that smells of cedar and tastes of tannin and cocoa that retails at around 200 gold pieces for a bottle or close to 240 platinum pieces for a case. The wine is a favorite among the elite of Caliphas. The blood of someone who has recently drunk sangwine is embittered and it sickens creatures who feed on such blood, such as vampires.</p>
+					</description>
+					<locked type="number">1</locked>
+					<name type="string">Sangwine (bottle)</name>
+					<subtype type="string">Food and Drink (Wines)</subtype>
+					<type type="string">Good and Services</type>
+				</id-00103>
+				<id-00104>
+					<description type="formattedtext">
+						<p>Legends spread around Caliphas state that drinking wine of concordance with someone forms both a magical and emotional bond between the pair. This is a sweet white wine with notes of apple, lemon, and peach. It has the strongest citrus flavor of the wines created around Caliphas.</p>
+					</description>
+					<locked type="number">1</locked>
+					<name type="string">Wine of Concordance</name>
+					<subtype type="string">Food and Drink (Wines)</subtype>
+					<type type="string">Good and Services</type>
+				</id-00104>
+				<id-00105>
+					<description type="formattedtext">
+						<p>A wine renowned as cheap and unpleasant from the village of Sauerton in Andoran.</p>
+					</description>
+					<locked type="number">1</locked>
+					<name type="string">Sauerton Red</name>
+					<subtype type="string">Food and Drink (Wines)</subtype>
+					<type type="string">Good and Services</type>
+				</id-00105>
+				<id-00106>
+					<description type="formattedtext">
+						<p>Stone giants have one exception to a policy of simple agriculture: viniculture. Stone giant wines are made for their own use and for their palate: they are sour and full of tannin, providing a dry and more bitter taste.</p>
+					</description>
+					<locked type="number">1</locked>
+					<name type="string">Stone Giant Wine</name>
+					<subtype type="string">Food and Drink (Wines)</subtype>
+					<type type="string">Good and Services</type>
+				</id-00106>
+				<id-00107>
+					<description type="formattedtext">
+						<p>Syrinelle is a grape variety and is used to produce a fine elven vintage in the settlement of Riverspire in Kyonin.</p>
+					</description>
+					<locked type="number">1</locked>
+					<name type="string">Syrinelle</name>
+					<subtype type="string">Food and Drink (Wines)</subtype>
+					<type type="string">Good and Services</type>
+				</id-00107>
+				<id-00108>
+					<description type="formattedtext">
+						<p>Countess Carmilla Caliphvaso? has recently bought the neglected Iomedaean Abbey of Sante-Lymirin and its estate and turned it over vineyards and to producing wine. The wine is fine and marked as being of Countess Carmilla Caliphvaso?'s estate.</p>
+					</description>
+					<locked type="number">1</locked>
+					<name type="string">Ustalav Wine</name>
+					<subtype type="string">Food and Drink (Wines)</subtype>
+					<type type="string">Good and Services</type>
+				</id-00108>
+				<id-00109>
+					<description type="formattedtext">
+						<p>The monks of Whiterose Abbey used to be expert vintners (and brewers) blessed by Cayden Cailean such that their products gained in flavour and alcoholic strength. The abbey is found close to Mount Branthlend in the River Kingdoms. Wines known to have been produced include fine Whiterose chardonnay worth a fortune if sold today.</p>
+					</description>
+					<locked type="number">1</locked>
+					<name type="string">Whiterose Abbey Wine</name>
+					<subtype type="string">Food and Drink (Wines)</subtype>
+					<type type="string">Good and Services</type>
+				</id-00109>
 			</category>
 		</equipment>
 	</reference>
