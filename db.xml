@@ -433,7 +433,7 @@
 					</description>
 					<locked type="number">0</locked>
 					<name type="string">Bilgwater Surprize</name>
-					<subtype type="string">Mixed Drinks</subtype>
+					<subtype type="string">Food and Drink (Mixed Drinks)</subtype>
 					<type type="string">Good and Services</type>
 				</id-00031>
 				<id-00032>
@@ -443,7 +443,7 @@
 					</description>
 					<locked type="number">0</locked>
 					<name type="string">Damsel in Distress</name>
-					<subtype type="string">Mixed Drinks</subtype>
+					<subtype type="string">Food and Drink (Mixed Drinks)</subtype>
 					<type type="string">Good and Services</type>
 				</id-00032>
 				<id-00033>
@@ -453,7 +453,7 @@
 					</description>
 					<locked type="number">0</locked>
 					<name type="string">Dark and Stormy</name>
-					<subtype type="string">Mixed Drinks</subtype>
+					<subtype type="string">Food and Drink (Mixed Drinks)</subtype>
 					<type type="string">Good and Services</type>
 				</id-00033>
 				<id-00034>
@@ -463,7 +463,7 @@
 					</description>
 					<locked type="number">0</locked>
 					<name type="string">Half a Doubloon</name>
-					<subtype type="string">Mixed Drinks</subtype>
+					<subtype type="string">Food and Drink (Mixed Drinks)</subtype>
 					<type type="string">Good and Services</type>
 				</id-00034>
 				<id-00035>
@@ -473,7 +473,7 @@
 					</description>
 					<locked type="number">0</locked>
 					<name type="string">Island Dream</name>
-					<subtype type="string">Mixed Drinks</subtype>
+					<subtype type="string">Food and Drink (Mixed Drinks)</subtype>
 					<type type="string">Good and Services</type>
 				</id-00035>
 				<id-00036>
@@ -483,7 +483,7 @@
 					</description>
 					<locked type="number">0</locked>
 					<name type="string">Kiss of the Mantis</name>
-					<subtype type="string">Mixed Drinks</subtype>
+					<subtype type="string">Food and Drink (Mixed Drinks)</subtype>
 					<type type="string">Good and Services</type>
 				</id-00036>
 				<id-00037>
@@ -493,7 +493,7 @@
 					</description>
 					<locked type="number">0</locked>
 					<name type="string">Lisken's Medicinal Tonic</name>
-					<subtype type="string">Mixed Drinks</subtype>
+					<subtype type="string">Food and Drink (Mixed Drinks)</subtype>
 					<type type="string">Good and Services</type>
 				</id-00037>
 				<id-00038>
@@ -502,7 +502,7 @@
 					</description>
 					<locked type="number">0</locked>
 					<name type="string">Rumboozle</name>
-					<subtype type="string">Mixed Drinks</subtype>
+					<subtype type="string">Food and Drink (Mixed Drinks)</subtype>
 					<type type="string">Good and Services</type>
 				</id-00038>
 				<id-00039>
@@ -512,7 +512,7 @@
 					</description>
 					<locked type="number">0</locked>
 					<name type="string">Rusty Cutlass</name>
-					<subtype type="string">Mixed Drinks</subtype>
+					<subtype type="string">Food and Drink (Mixed Drinks)</subtype>
 					<type type="string">Good and Services</type>
 				</id-00039>
 				<id-00040>
@@ -521,7 +521,7 @@
 					</description>
 					<locked type="number">0</locked>
 					<name type="string">Teht's Love Potion</name>
-					<subtype type="string">Mixed Drinks</subtype>
+					<subtype type="string">Food and Drink (Mixed Drinks)</subtype>
 					<type type="string">Good and Services</type>
 				</id-00040>
 				<id-00041>
@@ -531,7 +531,7 @@
 					</description>
 					<locked type="number">0</locked>
 					<name type="string">Three Salts and a Dog</name>
-					<subtype type="string">Mixed Drinks</subtype>
+					<subtype type="string">Food and Drink (Mixed Drinks)</subtype>
 					<type type="string">Good and Services</type>
 				</id-00041>
 				<id-00042>
@@ -541,7 +541,7 @@
 					</description>
 					<locked type="number">0</locked>
 					<name type="string">Three Sheets</name>
-					<subtype type="string">Mixed Drinks</subtype>
+					<subtype type="string">Food and Drink (Mixed Drinks)</subtype>
 					<type type="string">Good and Services</type>
 				</id-00042>
 				<id-00043>
@@ -551,7 +551,7 @@
 					</description>
 					<locked type="number">0</locked>
 					<name type="string">Whore's Breakfast</name>
-					<subtype type="string">Mixed Drinks</subtype>
+					<subtype type="string">Food and Drink (Mixed Drinks)</subtype>
 					<type type="string">Good and Services</type>
 				</id-00043>
 				<id-00044>
