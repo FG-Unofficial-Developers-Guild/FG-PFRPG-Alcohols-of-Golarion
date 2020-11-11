@@ -1151,6 +1151,101 @@
 					<subtype type="string">Food and Drink (Wines)</subtype>
 					<type type="string">Good and Services</type>
 				</id-00109>
+				<id-00110>
+					<description type="formattedtext">
+						<p>A blend of blue, pink, and white elven wines layered to form a drink the color of a sunset sky. Swirl or sip to witness your beverage sparkle like motes of sunset's light.</p>
+					</description>
+					<locked type="number">0</locked>
+					<name type="string">Twilight Symposium</name>
+					<subtype type="string">Food and Drink (Wines)</subtype>
+					<type type="string">Good and Services</type>
+				</id-00110>
+				<id-00111>
+					<cost type="string">10 gp</cost>
+					<description type="formattedtext">
+						<p>A Runoff specialty! Kellid whiskey and Numerian fluids combine for a quaffable and euphoric drinking experience. Mix and drink immediately for best results.*</p>
+						<p>*Runoff and its staff are not responsible for any ill effects caused by consuming Numerian fluids.</p>
+					</description>
+					<locked type="number">0</locked>
+					<name type="string">Star Shot</name>
+					<subtype type="string">Food and Drink (Mixed Drinks)</subtype>
+					<type type="string">Good and Services</type>
+				</id-00111>
+				<id-00112>
+					<description type="formattedtext">
+						<p>Cucumber spritzer, lemon cordial, lime wedges, and white wine. Cools you down when the heat is up.</p>
+					</description>
+					<locked type="number">0</locked>
+					<name type="string">Osirian Sangria</name>
+					<subtype type="string">Food and Drink (Mixed Drinks)</subtype>
+					<type type="string">Good and Services</type>
+				</id-00112>
+				<id-00113>
+					<description type="formattedtext">
+						<p>Purified water, dried hibiscus blossoms, whole cloves, three drops of vanilla extract, and honeyed red wine. Perfect for watching the blazing sunset on the balcony.</p>
+					</description>
+					<locked type="number">0</locked>
+					<name type="string">Pink Hibiscus Punch</name>
+					<subtype type="string">Food and Drink (Mixed Drinks)</subtype>
+					<type type="string">Good and Services</type>
+				</id-00113>
+				<id-00114>
+					<description type="formattedtext">
+						<p>Chilled green tea, spearmint leaves, diced aloe vera, and desert tequila. Calms your nerves when the bet's to you.</p>
+					</description>
+					<locked type="number">0</locked>
+					<name type="string">Asp's Mint Tea</name>
+					<subtype type="string">Food and Drink (Mixed Drinks)</subtype>
+					<type type="string">Good and Services</type>
+				</id-00114>
+				<id-00115>
+					<cost type="string">5 sp</cost>
+					<description type="formattedtext">
+						<p>A cocktail of whiskey, lime juice, and licorice extract. Color: dark amber. Flavor: full.</p>
+					</description>
+					<locked type="number">0</locked>
+					<name type="string">The Ball and Chain</name>
+					<subtype type="string">Food and Drink (Mixed Drinks)</subtype>
+					<type type="string">Good and Services</type>
+				</id-00115>
+				<id-00116>
+					<cost type="string">1 sp</cost>
+					<description type="formattedtext">
+						<p>Brewed in-house from homegrown red berries. Color: deep red. Flavor: sharp and acidic.</p>
+					</description>
+					<locked type="number">0</locked>
+					<name type="string">Iron Trident Wine (mug)</name>
+					<subtype type="string">Food and Drink (Wines)</subtype>
+					<type type="string">Good and Services</type>
+				</id-00116>
+				<id-00117>
+					<cost type="string">5 sp</cost>
+					<description type="formattedtext">
+						<p>Brewed in-house from homegrown red berries. Color: deep red. Flavor: sharp and acidic.</p>
+					</description>
+					<locked type="number">0</locked>
+					<name type="string">Iron Trident Wine (pitcher)</name>
+					<subtype type="string">Food and Drink (Wines)</subtype>
+					<type type="string">Good and Services</type>
+				</id-00117>
+				<id-00118>
+					<description type="formattedtext">
+						<p></p>
+					</description>
+					<locked type="number">0</locked>
+					<name type="string">Kellid Whiskey</name>
+					<subtype type="string">Food and Drink (Spirits)</subtype>
+					<type type="string">Good and Services</type>
+				</id-00118>
+				<id-00119>
+					<description type="formattedtext">
+						<p></p>
+					</description>
+					<locked type="number">0</locked>
+					<name type="string">Besmara's Mead</name>
+					<subtype type="string">Food and Drink (Ale/Cider-Strength)</subtype>
+					<type type="string">Good and Services</type>
+				</id-00119>
 			</category>
 		</equipment>
 	</reference>
