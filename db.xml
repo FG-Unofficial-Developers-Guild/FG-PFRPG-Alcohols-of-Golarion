@@ -161,7 +161,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Wiscrani Barbera</name>
 					<subtype type="string">Food and Drink (Wines)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00001>
 				<id-00002>
 					<description type="formattedtext">
@@ -170,7 +170,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Urglin Gin</name>
 					<subtype type="string">Food and Drink (Spirits)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00002>
 				<id-00003>
 					<description type="formattedtext">
@@ -179,7 +179,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Taldan Fire-Brandy</name>
 					<subtype type="string">Food and Drink (Spirits)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00003>
 				<id-00004>
 					<description type="formattedtext">
@@ -188,7 +188,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Sealord Wine</name>
 					<subtype type="string">Food and Drink (Wines)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00004>
 				<id-00005>
 					<description type="formattedtext">
@@ -197,7 +197,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Palm Wine</name>
 					<subtype type="string">Food and Drink (Wines)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00005>
 				<id-00006>
 					<description type="formattedtext">
@@ -206,7 +206,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Oldlaw Whiskey</name>
 					<subtype type="string">Food and Drink (Spirits)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00006>
 				<id-00007>
 					<description type="formattedtext">
@@ -215,7 +215,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Old Erebus</name>
 					<subtype type="string">Food and Drink (Spirits)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00007>
 				<id-00008>
 					<description type="formattedtext">
@@ -224,7 +224,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Mupute</name>
 					<subtype type="string">Food and Drink (Spirits)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00008>
 				<id-00009>
 					<description type="formattedtext">
@@ -233,7 +233,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Lagmi Liquor</name>
 					<subtype type="string">Food and Drink (Spirits)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00009>
 				<id-00010>
 					<description type="formattedtext">
@@ -242,7 +242,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Kill-Devil Rum</name>
 					<subtype type="string">Food and Drink (Spirits)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00010>
 				<id-00011>
 					<description type="formattedtext">
@@ -252,7 +252,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Honey Wine</name>
 					<subtype type="string">Food and Drink (Wines)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00011>
 				<id-00012>
 					<description type="formattedtext">
@@ -261,7 +261,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Gin</name>
 					<subtype type="string">Food and Drink (Spirits)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00012>
 				<id-00013>
 					<description type="formattedtext">
@@ -270,7 +270,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Fish Oil Whiskey</name>
 					<subtype type="string">Food and Drink (Spirits)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00013>
 				<id-00014>
 					<description type="formattedtext">
@@ -279,7 +279,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Chelish Wine</name>
 					<subtype type="string">Food and Drink (Wines)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00014>
 				<id-00015>
 					<description type="formattedtext">
@@ -288,7 +288,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Bagog's Liquor</name>
 					<subtype type="string">Food and Drink (Spirits)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00015>
 				<id-00016>
 					<description type="formattedtext">
@@ -297,7 +297,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Arrack</name>
 					<subtype type="string">Food and Drink (Spirits)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00016>
 				<id-00017>
 					<description type="formattedtext">
@@ -306,7 +306,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Andoren Beer</name>
 					<subtype type="string">Food and Drink (Ale/Cider-Strength)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00017>
 				<id-00018>
 					<description type="formattedtext">
@@ -315,7 +315,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Blackpeak Ale</name>
 					<subtype type="string">Food and Drink (Ale/Cider-Strength)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00018>
 				<id-00019>
 					<description type="formattedtext">
@@ -324,7 +324,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Barley Stout</name>
 					<subtype type="string">Food and Drink (Ale/Cider-Strength)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00019>
 				<id-00020>
 					<description type="formattedtext">
@@ -333,7 +333,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Bloodhammer Reserve</name>
 					<subtype type="string">Food and Drink (Ale/Cider-Strength)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00020>
 				<id-00021>
 					<description type="formattedtext">
@@ -342,7 +342,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Brow Brew</name>
 					<subtype type="string">Food and Drink (Ale/Cider-Strength)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00021>
 				<id-00022>
 					<description type="formattedtext">
@@ -351,7 +351,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Hardroot Cider</name>
 					<subtype type="string">Food and Drink (Ale/Cider-Strength)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00022>
 				<id-00023>
 					<description type="formattedtext">
@@ -360,7 +360,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Fort Indros Ale</name>
 					<subtype type="string">Food and Drink (Ale/Cider-Strength)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00023>
 				<id-00024>
 					<description type="formattedtext">
@@ -369,7 +369,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Cheerful Delver Stout</name>
 					<subtype type="string">Food and Drink (Ale/Cider-Strength)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00024>
 				<id-00025>
 					<description type="formattedtext">
@@ -378,7 +378,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Dwarven Magic Ale</name>
 					<subtype type="string">Food and Drink (Ale/Cider-Strength)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00025>
 				<id-00026>
 					<description type="formattedtext">
@@ -387,7 +387,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Boulderhead Bock</name>
 					<subtype type="string">Food and Drink (Ale/Cider-Strength)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00026>
 				<id-00027>
 					<description type="formattedtext">
@@ -396,7 +396,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Bufo</name>
 					<subtype type="string">Food and Drink (Ale/Cider-Strength)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00027>
 				<id-00028>
 					<description type="formattedtext">
@@ -405,7 +405,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Ipeq Beer</name>
 					<subtype type="string">Food and Drink (Ale/Cider-Strength)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00028>
 				<id-00029>
 					<cost type="string">4 sp</cost>
@@ -415,7 +415,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Luglurch Ale</name>
 					<subtype type="string">Food and Drink (Ale/Cider-Strength)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00029>
 				<id-00030>
 					<description type="formattedtext">
@@ -424,7 +424,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Liquid Ghosts</name>
 					<subtype type="string">Food and Drink (Ale/Cider-Strength)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00030>
 				<id-00031>
 					<cost type="string">1 cp</cost>
@@ -434,7 +434,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Bilgwater Surprize</name>
 					<subtype type="string">Food and Drink (Mixed Drinks)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00031>
 				<id-00032>
 					<cost type="string">6 sp</cost>
@@ -444,7 +444,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Damsel in Distress</name>
 					<subtype type="string">Food and Drink (Mixed Drinks)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00032>
 				<id-00033>
 					<cost type="string">2 sp</cost>
@@ -454,7 +454,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Dark and Stormy</name>
 					<subtype type="string">Food and Drink (Mixed Drinks)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00033>
 				<id-00034>
 					<cost type="string">5 sp</cost>
@@ -464,7 +464,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Half a Doubloon</name>
 					<subtype type="string">Food and Drink (Mixed Drinks)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00034>
 				<id-00035>
 					<cost type="string">1 gp</cost>
@@ -474,7 +474,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Island Dream</name>
 					<subtype type="string">Food and Drink (Mixed Drinks)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00035>
 				<id-00036>
 					<cost type="string">1 gp</cost>
@@ -484,7 +484,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Kiss of the Mantis</name>
 					<subtype type="string">Food and Drink (Mixed Drinks)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00036>
 				<id-00037>
 					<cost type="string">10 gp</cost>
@@ -494,7 +494,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Lisken's Medicinal Tonic</name>
 					<subtype type="string">Food and Drink (Mixed Drinks)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00037>
 				<id-00038>
 					<description type="formattedtext">
@@ -503,7 +503,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Rumboozle</name>
 					<subtype type="string">Food and Drink (Mixed Drinks)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00038>
 				<id-00039>
 					<cost type="string">8 cp</cost>
@@ -513,7 +513,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Rusty Cutlass</name>
 					<subtype type="string">Food and Drink (Mixed Drinks)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00039>
 				<id-00040>
 					<description type="formattedtext">
@@ -522,7 +522,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Teht's Love Potion</name>
 					<subtype type="string">Food and Drink (Mixed Drinks)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00040>
 				<id-00041>
 					<cost type="string">4 sp</cost>
@@ -532,7 +532,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Three Salts and a Dog</name>
 					<subtype type="string">Food and Drink (Mixed Drinks)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00041>
 				<id-00042>
 					<cost type="string">6 cp</cost>
@@ -542,7 +542,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Three Sheets</name>
 					<subtype type="string">Food and Drink (Mixed Drinks)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00042>
 				<id-00043>
 					<cost type="string">1 sp</cost>
@@ -552,7 +552,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Whore's Breakfast</name>
 					<subtype type="string">Food and Drink (Mixed Drinks)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00043>
 				<id-00044>
 					<description type="formattedtext">
@@ -561,7 +561,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Absinthe</name>
 					<subtype type="string">Food and Drink (Spirits)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00044>
 				<id-00045>
 					<description type="formattedtext">
@@ -570,7 +570,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Baijiu</name>
 					<subtype type="string">Food and Drink (Spirits)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00045>
 				<id-00046>
 					<description type="formattedtext">
@@ -579,7 +579,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Bog Grog</name>
 					<subtype type="string">Food and Drink (Spirits)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00046>
 				<id-00047>
 					<description type="formattedtext">
@@ -588,7 +588,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Pesh Brandy</name>
 					<subtype type="string">Food and Drink (Spirits)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00047>
 				<id-00048>
 					<description type="formattedtext">
@@ -597,7 +597,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Zimaran Wine</name>
 					<subtype type="string">Food and Drink (Wines)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00048>
 				<id-00049>
 					<description type="formattedtext">
@@ -606,7 +606,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Ustalavic Brandy</name>
 					<subtype type="string">Food and Drink (Spirits)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00049>
 				<id-00050>
 					<description type="formattedtext">
@@ -615,7 +615,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Corn Liquor</name>
 					<subtype type="string">Food and Drink (Spirits)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00050>
 				<id-00051>
 					<description type="formattedtext">
@@ -624,7 +624,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Daggermark Drip</name>
 					<subtype type="string">Food and Drink (Spirits)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00051>
 				<id-00052>
 					<description type="formattedtext">
@@ -633,7 +633,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Gear Grog</name>
 					<subtype type="string">Food and Drink (Spirits)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00052>
 				<id-00053>
 					<cost type="string">100 gp</cost>
@@ -643,7 +643,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Bloodberry Gin</name>
 					<subtype type="string">Food and Drink (Spirits)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00053>
 				<id-00054>
 					<description type="formattedtext">
@@ -652,7 +652,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Grain Alcohol</name>
 					<subtype type="string">Food and Drink (Spirits)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00054>
 				<id-00055>
 					<description type="formattedtext">
@@ -661,7 +661,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Mulue</name>
 					<subtype type="string">Food and Drink (Spirits)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00055>
 				<id-00056>
 					<description type="formattedtext">
@@ -670,7 +670,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Penj</name>
 					<subtype type="string">Food and Drink (Spirits)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00056>
 				<id-00057>
 					<description type="formattedtext">
@@ -679,7 +679,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Poitin</name>
 					<subtype type="string">Food and Drink (Spirits)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00057>
 				<id-00058>
 					<description type="formattedtext">
@@ -688,7 +688,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Rum (or Grog)</name>
 					<subtype type="string">Food and Drink (Spirits)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00058>
 				<id-00059>
 					<description type="formattedtext">
@@ -697,7 +697,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Fire in the Hole</name>
 					<subtype type="string">Food and Drink (Spirits)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00059>
 				<id-00060>
 					<description type="formattedtext">
@@ -706,7 +706,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Salt-Licked Grog</name>
 					<subtype type="string">Food and Drink (Spirits)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00060>
 				<id-00061>
 					<description type="formattedtext">
@@ -715,7 +715,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Spiced Rum (or Spiced Grog)</name>
 					<subtype type="string">Food and Drink (Spirits)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00061>
 				<id-00062>
 					<description type="formattedtext">
@@ -724,7 +724,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Two Knight Brewery Rum</name>
 					<subtype type="string">Food and Drink (Spirits)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00062>
 				<id-00063>
 					<description type="formattedtext">
@@ -733,7 +733,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Potato Vodka</name>
 					<subtype type="string">Food and Drink (Spirits)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00063>
 				<id-00064>
 					<description type="formattedtext">
@@ -742,7 +742,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Whisky</name>
 					<subtype type="string">Food and Drink (Spirits)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00064>
 				<id-00065>
 					<description type="formattedtext">
@@ -751,7 +751,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Black Hill Whiskey</name>
 					<subtype type="string">Food and Drink (Spirits)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00065>
 				<id-00066>
 					<description type="formattedtext">
@@ -760,7 +760,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Chelaxian Pepper Whiskey / Chelish Pepper Whisky</name>
 					<subtype type="string">Food and Drink (Spirits)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00066>
 				<id-00067>
 					<cost type="string">10 gp</cost>
@@ -770,7 +770,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Dragon Punch Whiskey</name>
 					<subtype type="string">Food and Drink (Spirits)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00067>
 				<id-00068>
 					<description type="formattedtext">
@@ -779,7 +779,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Dragonscar Whisky</name>
 					<subtype type="string">Food and Drink (Spirits)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00068>
 				<id-00069>
 					<description type="formattedtext">
@@ -788,7 +788,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Gnome Whiskey</name>
 					<subtype type="string">Food and Drink (Spirits)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00069>
 				<id-00070>
 					<description type="formattedtext">
@@ -797,7 +797,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Janderhoff Whiskey</name>
 					<subtype type="string">Food and Drink (Spirits)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00070>
 				<id-00071>
 					<description type="formattedtext">
@@ -806,7 +806,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Throatburn</name>
 					<subtype type="string">Food and Drink (Spirits)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00071>
 				<id-00072>
 					<description type="formattedtext">
@@ -815,7 +815,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Vjarik</name>
 					<subtype type="string">Food and Drink (Spirits)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00072>
 				<id-00073>
 					<description type="formattedtext">
@@ -824,7 +824,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Winteryew Moonshine</name>
 					<subtype type="string">Food and Drink (Spirits)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00073>
 				<id-00074>
 					<description type="formattedtext">
@@ -833,7 +833,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Bellis Mead</name>
 					<subtype type="string">Food and Drink (Ale/Cider-Strength)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00074>
 				<id-00075>
 					<description type="formattedtext">
@@ -842,7 +842,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Cauim</name>
 					<subtype type="string">Food and Drink (Ale/Cider-Strength)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00075>
 				<id-00076>
 					<description type="formattedtext">
@@ -851,7 +851,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Icecap Ale</name>
 					<subtype type="string">Food and Drink (Ale/Cider-Strength)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00076>
 				<id-00077>
 					<description type="formattedtext">
@@ -860,7 +860,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Longbeard Lambic</name>
 					<subtype type="string">Food and Drink (Ale/Cider-Strength)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00077>
 				<id-00078>
 					<description type="formattedtext">
@@ -869,7 +869,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Wyrm's Breath Bitter</name>
 					<subtype type="string">Food and Drink (Ale/Cider-Strength)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00078>
 				<id-00079>
 					<description type="formattedtext">
@@ -878,7 +878,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Kumis</name>
 					<subtype type="string">Food and Drink (Ale/Cider-Strength)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00079>
 				<id-00080>
 					<description type="formattedtext">
@@ -887,7 +887,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Mead</name>
 					<subtype type="string">Food and Drink (Ale/Cider-Strength)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00080>
 				<id-00081>
 					<description type="formattedtext">
@@ -896,7 +896,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Nodrim</name>
 					<subtype type="string">Food and Drink (Ale/Cider-Strength)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00081>
 				<id-00082>
 					<description type="formattedtext">
@@ -905,7 +905,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Pulque</name>
 					<subtype type="string">Food and Drink (Ale/Cider-Strength)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00082>
 				<id-00083>
 					<description type="formattedtext">
@@ -914,7 +914,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Qadiran Cider</name>
 					<subtype type="string">Food and Drink (Ale/Cider-Strength)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00083>
 				<id-00084>
 					<description type="formattedtext">
@@ -923,7 +923,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Rusty Ale</name>
 					<subtype type="string">Food and Drink (Ale/Cider-Strength)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00084>
 				<id-00085>
 					<description type="formattedtext">
@@ -932,7 +932,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Sake, or Rice Wine</name>
 					<subtype type="string">Food and Drink (Ale/Cider-Strength)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00085>
 				<id-00086>
 					<description type="formattedtext">
@@ -941,7 +941,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Sarain</name>
 					<subtype type="string">Food and Drink (Ale/Cider-Strength)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00086>
 				<id-00087>
 					<description type="formattedtext">
@@ -950,7 +950,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Steelforged Stout</name>
 					<subtype type="string">Food and Drink (Ale/Cider-Strength)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00087>
 				<id-00088>
 					<description type="formattedtext">
@@ -959,7 +959,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Tepache</name>
 					<subtype type="string">Food and Drink (Ale/Cider-Strength)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00088>
 				<id-00089>
 					<description type="formattedtext">
@@ -968,7 +968,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Thileu Lager</name>
 					<subtype type="string">Food and Drink (Ale/Cider-Strength)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00089>
 				<id-00090>
 					<description type="formattedtext">
@@ -977,7 +977,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Three Devil Ale</name>
 					<subtype type="string">Food and Drink (Ale/Cider-Strength)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00090>
 				<id-00091>
 					<description type="formattedtext">
@@ -986,7 +986,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Ulseberry Ale</name>
 					<subtype type="string">Food and Drink (Ale/Cider-Strength)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00091>
 				<id-00092>
 					<description type="formattedtext">
@@ -995,7 +995,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Wineberry Mead</name>
 					<subtype type="string">Food and Drink (Ale/Cider-Strength)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00092>
 				<id-00093>
 					<description type="formattedtext">
@@ -1004,7 +1004,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Alkenstar Ice Wine</name>
 					<subtype type="string">Food and Drink (Wines)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00093>
 				<id-00094>
 					<description type="formattedtext">
@@ -1013,7 +1013,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Blackberry Wine</name>
 					<subtype type="string">Food and Drink (Wines)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00094>
 				<id-00095>
 					<description type="formattedtext">
@@ -1022,7 +1022,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Dessert Wine</name>
 					<subtype type="string">Food and Drink (Wines)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00095>
 				<id-00096>
 					<description type="formattedtext">
@@ -1031,7 +1031,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Drumish Wine</name>
 					<subtype type="string">Food and Drink (Wines)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00096>
 				<id-00097>
 					<description type="formattedtext">
@@ -1040,7 +1040,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Elven Wine</name>
 					<subtype type="string">Food and Drink (Wines)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00097>
 				<id-00098>
 					<description type="formattedtext">
@@ -1049,7 +1049,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Galdurian Wine</name>
 					<subtype type="string">Food and Drink (Wines)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00098>
 				<id-00099>
 					<description type="formattedtext">
@@ -1058,7 +1058,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Galtan Wine</name>
 					<subtype type="string">Food and Drink (Wines)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00099>
 				<id-00100>
 					<description type="formattedtext">
@@ -1067,7 +1067,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Irrisen Icewine</name>
 					<subtype type="string">Food and Drink (Wines)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00100>
 				<id-00101>
 					<description type="formattedtext">
@@ -1076,7 +1076,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Korvosan Wine</name>
 					<subtype type="string">Food and Drink (Wines)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00101>
 				<id-00102>
 					<description type="formattedtext">
@@ -1085,7 +1085,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Port</name>
 					<subtype type="string">Food and Drink (Wines)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00102>
 				<id-00103>
 					<cost type="string">200 gp</cost>
@@ -1095,7 +1095,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Sangwine (bottle)</name>
 					<subtype type="string">Food and Drink (Wines)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00103>
 				<id-00104>
 					<description type="formattedtext">
@@ -1104,7 +1104,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Wine of Concordance</name>
 					<subtype type="string">Food and Drink (Wines)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00104>
 				<id-00105>
 					<description type="formattedtext">
@@ -1113,7 +1113,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Sauerton Red</name>
 					<subtype type="string">Food and Drink (Wines)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00105>
 				<id-00106>
 					<description type="formattedtext">
@@ -1122,7 +1122,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Stone Giant Wine</name>
 					<subtype type="string">Food and Drink (Wines)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00106>
 				<id-00107>
 					<description type="formattedtext">
@@ -1131,7 +1131,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Syrinelle</name>
 					<subtype type="string">Food and Drink (Wines)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00107>
 				<id-00108>
 					<description type="formattedtext">
@@ -1140,7 +1140,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Ustalav Wine</name>
 					<subtype type="string">Food and Drink (Wines)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00108>
 				<id-00109>
 					<description type="formattedtext">
@@ -1149,7 +1149,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Whiterose Abbey Wine</name>
 					<subtype type="string">Food and Drink (Wines)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00109>
 				<id-00110>
 					<description type="formattedtext">
@@ -1158,7 +1158,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Twilight Symposium</name>
 					<subtype type="string">Food and Drink (Wines)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00110>
 				<id-00111>
 					<cost type="string">10 gp</cost>
@@ -1169,7 +1169,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Star Shot</name>
 					<subtype type="string">Food and Drink (Mixed Drinks)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00111>
 				<id-00112>
 					<description type="formattedtext">
@@ -1178,7 +1178,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Osirian Sangria</name>
 					<subtype type="string">Food and Drink (Mixed Drinks)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00112>
 				<id-00113>
 					<description type="formattedtext">
@@ -1187,7 +1187,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Pink Hibiscus Punch</name>
 					<subtype type="string">Food and Drink (Mixed Drinks)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00113>
 				<id-00114>
 					<description type="formattedtext">
@@ -1196,7 +1196,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Asp's Mint Tea</name>
 					<subtype type="string">Food and Drink (Mixed Drinks)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00114>
 				<id-00115>
 					<cost type="string">5 sp</cost>
@@ -1206,7 +1206,7 @@
 					<locked type="number">0</locked>
 					<name type="string">The Ball and Chain</name>
 					<subtype type="string">Food and Drink (Mixed Drinks)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00115>
 				<id-00116>
 					<cost type="string">1 sp</cost>
@@ -1216,7 +1216,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Iron Trident Wine (mug)</name>
 					<subtype type="string">Food and Drink (Wines)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00116>
 				<id-00117>
 					<cost type="string">5 sp</cost>
@@ -1226,7 +1226,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Iron Trident Wine (pitcher)</name>
 					<subtype type="string">Food and Drink (Wines)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00117>
 				<id-00118>
 					<description type="formattedtext">
@@ -1235,7 +1235,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Kellid Whiskey</name>
 					<subtype type="string">Food and Drink (Spirits)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00118>
 				<id-00119>
 					<description type="formattedtext">
@@ -1244,7 +1244,7 @@
 					<locked type="number">0</locked>
 					<name type="string">Besmara's Mead</name>
 					<subtype type="string">Food and Drink (Ale/Cider-Strength)</subtype>
-					<type type="string">Good and Services</type>
+					<type type="string">Goods and Services</type>
 				</id-00119>
 			</category>
 		</equipment>
