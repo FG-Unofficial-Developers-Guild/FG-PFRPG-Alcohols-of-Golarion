@@ -1,4 +1,4 @@
-[![Build FG-Usable File](https://github.com/FG-Unofficial-Developers-Guild/FG-PFRPG-Enhanced-Items/actions/workflows/create-mod.yml/badge.svg)](https://github.com/FG-Unofficial-Developers-Guild/FG-PFRPG-Enhanced-Items/actions/workflows/create-mod.yml)
+[![Build FG-Usable File](https://github.com/FG-Unofficial-Developers-Guild/FG-PFRPG-Alcohols-of-Golarion/actions/workflows/create-mod.yml/badge.svg)](https://github.com/FG-Unofficial-Developers-Guild/FG-PFRPG-Alcohols-of-Golarion/actions/workflows/create-mod.yml)
 
 # Alcohols of Golarion 
 This is a collection of 'flavor items' from various Paizo sourcebooks and official fiction.
